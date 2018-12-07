@@ -1,0 +1,49 @@
+.root {
+	
+    -fx-background-color:  #0C0A3E;
+        /*nuevos*/
+    -fx-background-image: url("/res/LittleHackerLogo.png");
+    -fx-background-size: 80px 60px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: Topleft;
+	
+}
+/* Style buttons */
+
+.regreso {
+    -fx-background-color: transparent;
+    -fx-background-radius: 5,4,3,5;
+    -fx-background-insets: 0,1,2,0;
+    -fx-text-fill: white;
+    -fx-font-family: "Courier New";
+    -fx-font-weight: bolder;
+    -fx-text-fill: linear-gradient(white, #d0d0d0);
+    -fx-font-size: 30px;
+    -fx-padding: 10 20 10 20;
+}
+
+
+.records {
+	
+	-fx-background-color: #B33F62;
+    -fx-text-fill: white;
+    -fx-font-family: "Courier New";
+    -fx-font-weight: bolder;
+    -fx-text-fill: linear-gradient(white, #d0d0d0);
+    -fx-font-size: 30px;
+    -fx-padding: 10 20 10 20;
+	
+}
+
+.close {
+    -fx-background-color: transparent;
+    -fx-background-radius: 5,4,3,5;
+    -fx-background-insets: 0,1,2,0;
+    -fx-text-fill: white;
+    -fx-font-family: "Courier New";
+    -fx-font-weight: bolder;
+    -fx-text-fill: linear-gradient(white, #d0d0d0);
+    -fx-font-size: 30px;
+    -fx-padding: 10 20 10 20;
+}
+
